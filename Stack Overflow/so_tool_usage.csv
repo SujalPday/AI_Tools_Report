@@ -1,0 +1,53 @@
+tool_name,respondent_count,usage_rate_pct,year,total_respondents
+GitHub Copilot,22078,85.23,2023,25904
+Tabnine,5193,20.05,2023,25904
+AWS CodeWhisperer,2071,7.99,2023,25904
+Synk Code,538,2.08,2023,25904
+Codeium,504,1.95,2023,25904
+Whispr AI,455,1.76,2023,25904
+Replit Ghostwriter,335,1.29,2023,25904
+Mintlify,211,0.81,2023,25904
+Adrenaline,174,0.67,2023,25904
+Rubber Duck.AI,151,0.58,2023,25904
+ChatGPT,37923,85.31,2024,44453
+GitHub Copilot,19032,42.81,2024,44453
+Google Gemini,11056,24.87,2024,44453
+Bing AI,7305,16.43,2024,44453
+Visual Studio Intellicode,6296,14.16,2024,44453
+Claude,3760,8.46,2024,44453
+Codeium,2809,6.32,2024,44453
+WolframAlpha,2567,5.77,2024,44453
+Perplexity AI,2462,5.54,2024,44453
+Tabnine,2331,5.24,2024,44453
+Phind,1759,3.96,2024,44453
+Meta AI,1472,3.31,2024,44453
+Amazon Q,1202,2.7,2024,44453
+You.com,625,1.41,2024,44453
+Cody,610,1.37,2024,44453
+OpenAI Codex,599,1.35,2024,44453
+Whispr AI,476,1.07,2024,44453
+Quora Poe,433,0.97,2024,44453
+Snyk Code,392,0.88,2024,44453
+Replit Ghostwriter,191,0.43,2024,44453
+Lightning AI,158,0.36,2024,44453
+AskCodi,130,0.29,2024,44453
+Andi,112,0.25,2024,44453
+Neeva AI,82,0.18,2024,44453
+Metaphor,76,0.17,2024,44453
+openAI GPT (chatbot models),13424,82.45,2025,16281
+Anthropic: Claude Sonnet,7063,43.38,2025,16281
+Gemini (Flash general purpose models),5823,35.77,2025,16281
+openAI Reasoning models,5716,35.11,2025,16281
+openAI Image generating models,4395,26.99,2025,16281
+Gemini (Pro Reasoning models),4221,25.93,2025,16281
+DeepSeek (R- Reasoning models),3848,23.63,2025,16281
+Meta Llama (all models),2941,18.06,2025,16281
+DeepSeek (V- General purpose models),2363,14.51,2025,16281
+X Grok models,1839,11.3,2025,16281
+Mistral AI models,1712,10.52,2025,16281
+Perplexity Sonar models,1250,7.68,2025,16281
+Alibaba Cloud Qwen models,864,5.31,2025,16281
+Microsoft Phi-4 models,833,5.12,2025,16281
+Amazon Titan models,283,1.74,2025,16281
+Cohere: Command A,139,0.85,2025,16281
+Reka (Flash 3 or other Reka models),57,0.35,2025,16281

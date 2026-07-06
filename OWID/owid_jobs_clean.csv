@@ -1,0 +1,201 @@
+country,code,year,ai_job_share_pct,source
+Australia,AUS,2014,0.23514293,Our World in Data
+Australia,AUS,2015,0.26475707,Our World in Data
+Australia,AUS,2016,0.29612854,Our World in Data
+Australia,AUS,2017,0.42793155,Our World in Data
+Australia,AUS,2018,0.598439,Our World in Data
+Australia,AUS,2019,0.6753557,Our World in Data
+Australia,AUS,2020,0.7135912,Our World in Data
+Australia,AUS,2021,1.0030906,Our World in Data
+Australia,AUS,2022,0.9733121,Our World in Data
+Australia,AUS,2023,0.7989642,Our World in Data
+Australia,AUS,2024,1.0585991,Our World in Data
+Australia,AUS,2025,1.7760297,Our World in Data
+Austria,AUT,2018,0.48120254,Our World in Data
+Austria,AUT,2019,0.53068185,Our World in Data
+Austria,AUT,2020,0.5108747,Our World in Data
+Austria,AUT,2021,0.47235155,Our World in Data
+Austria,AUT,2022,0.6922138,Our World in Data
+Austria,AUT,2023,0.7078427,Our World in Data
+Austria,AUT,2024,0.7692686,Our World in Data
+Austria,AUT,2025,0.84165347,Our World in Data
+Belgium,BEL,2018,0.64441305,Our World in Data
+Belgium,BEL,2019,0.6084931,Our World in Data
+Belgium,BEL,2020,0.8602126,Our World in Data
+Belgium,BEL,2021,0.8604677,Our World in Data
+Belgium,BEL,2022,0.855406,Our World in Data
+Belgium,BEL,2023,0.91526043,Our World in Data
+Belgium,BEL,2024,1.2248663,Our World in Data
+Belgium,BEL,2025,1.3567568,Our World in Data
+Canada,CAN,2014,0.34980002,Our World in Data
+Canada,CAN,2015,0.4005,Our World in Data
+Canada,CAN,2016,0.5208,Our World in Data
+Canada,CAN,2017,0.68490005,Our World in Data
+Canada,CAN,2018,0.7895,Our World in Data
+Canada,CAN,2019,0.91159993,Our World in Data
+Canada,CAN,2020,0.9586,Our World in Data
+Canada,CAN,2021,1.1837,Our World in Data
+Canada,CAN,2022,1.1328,Our World in Data
+Canada,CAN,2023,0.9675,Our World in Data
+Canada,CAN,2024,1.303,Our World in Data
+Canada,CAN,2025,3.0013,Our World in Data
+Chile,CHL,2020,0.37233862,Our World in Data
+Chile,CHL,2021,0.32695824,Our World in Data
+Chile,CHL,2022,0.38041025,Our World in Data
+Chile,CHL,2023,0.39746058,Our World in Data
+Chile,CHL,2024,0.3752349,Our World in Data
+Chile,CHL,2025,2.4124293,Our World in Data
+Croatia,HRV,2018,0.16973126,Our World in Data
+Croatia,HRV,2019,0.10531931,Our World in Data
+Croatia,HRV,2020,0.14183854,Our World in Data
+Croatia,HRV,2021,0.10705837,Our World in Data
+Croatia,HRV,2022,0.124611855,Our World in Data
+Croatia,HRV,2023,0.15522133,Our World in Data
+Croatia,HRV,2024,0.22465158,Our World in Data
+Croatia,HRV,2025,0.37966642,Our World in Data
+France,FRA,2018,0.3505631,Our World in Data
+France,FRA,2019,0.3544775,Our World in Data
+France,FRA,2020,0.4463002,Our World in Data
+France,FRA,2021,0.69235307,Our World in Data
+France,FRA,2022,0.8566496,Our World in Data
+France,FRA,2023,0.7389364,Our World in Data
+France,FRA,2024,0.7623889,Our World in Data
+France,FRA,2025,0.9880101,Our World in Data
+Germany,DEU,2018,0.53823173,Our World in Data
+Germany,DEU,2019,0.58580464,Our World in Data
+Germany,DEU,2020,0.50800794,Our World in Data
+Germany,DEU,2021,0.82475746,Our World in Data
+Germany,DEU,2022,0.9679177,Our World in Data
+Germany,DEU,2023,0.8113591,Our World in Data
+Germany,DEU,2024,0.8380593,Our World in Data
+Germany,DEU,2025,1.1298784,Our World in Data
+Hong Kong,HKG,2020,2.0287213,Our World in Data
+Hong Kong,HKG,2021,1.8338885,Our World in Data
+Hong Kong,HKG,2022,1.7299262,Our World in Data
+Hong Kong,HKG,2023,1.7173071,Our World in Data
+Hong Kong,HKG,2024,2.0070775,Our World in Data
+Hong Kong,HKG,2025,3.4755673,Our World in Data
+Italy,ITA,2014,0.043118898,Our World in Data
+Italy,ITA,2015,0.07177662,Our World in Data
+Italy,ITA,2016,0.121533476,Our World in Data
+Italy,ITA,2017,0.13540308,Our World in Data
+Italy,ITA,2018,0.29866162,Our World in Data
+Italy,ITA,2019,0.45550194,Our World in Data
+Italy,ITA,2020,0.51397014,Our World in Data
+Italy,ITA,2021,0.55000854,Our World in Data
+Italy,ITA,2022,0.6894798,Our World in Data
+Italy,ITA,2023,0.61225945,Our World in Data
+Italy,ITA,2024,0.7089902,Our World in Data
+Italy,ITA,2025,1.3286461,Our World in Data
+Luxembourg,LUX,2018,1.5398878,Our World in Data
+Luxembourg,LUX,2019,1.6915064,Our World in Data
+Luxembourg,LUX,2020,2.443262,Our World in Data
+Luxembourg,LUX,2021,2.1424086,Our World in Data
+Luxembourg,LUX,2022,1.9091222,Our World in Data
+Luxembourg,LUX,2023,1.7806337,Our World in Data
+Luxembourg,LUX,2024,2.3907356,Our World in Data
+Luxembourg,LUX,2025,3.4337115,Our World in Data
+Mexico,MEX,2020,0.33564395,Our World in Data
+Mexico,MEX,2021,0.41817525,Our World in Data
+Mexico,MEX,2022,0.6485988,Our World in Data
+Mexico,MEX,2023,0.68505526,Our World in Data
+Mexico,MEX,2024,0.54301816,Our World in Data
+Mexico,MEX,2025,1.3831784,Our World in Data
+Netherlands,NLD,2018,0.76883066,Our World in Data
+Netherlands,NLD,2019,0.74953943,Our World in Data
+Netherlands,NLD,2020,0.8527898,Our World in Data
+Netherlands,NLD,2021,1.0274134,Our World in Data
+Netherlands,NLD,2022,0.81936055,Our World in Data
+Netherlands,NLD,2023,0.8101318,Our World in Data
+Netherlands,NLD,2024,0.88843817,Our World in Data
+Netherlands,NLD,2025,1.0408113,Our World in Data
+New Zealand,NZL,2014,0.13967815,Our World in Data
+New Zealand,NZL,2015,0.16566826,Our World in Data
+New Zealand,NZL,2016,0.13729489,Our World in Data
+New Zealand,NZL,2017,0.16162631,Our World in Data
+New Zealand,NZL,2018,0.1943496,Our World in Data
+New Zealand,NZL,2019,0.18969496,Our World in Data
+New Zealand,NZL,2020,0.2458042,Our World in Data
+New Zealand,NZL,2021,0.36882412,Our World in Data
+New Zealand,NZL,2022,0.43562236,Our World in Data
+New Zealand,NZL,2023,0.43662727,Our World in Data
+New Zealand,NZL,2024,0.5457445,Our World in Data
+New Zealand,NZL,2025,0.812238,Our World in Data
+Poland,POL,2018,0.19608219,Our World in Data
+Poland,POL,2019,0.35039598,Our World in Data
+Poland,POL,2020,0.35091656,Our World in Data
+Poland,POL,2021,0.7808614,Our World in Data
+Poland,POL,2022,1.0283303,Our World in Data
+Poland,POL,2023,0.918272,Our World in Data
+Poland,POL,2024,1.7049537,Our World in Data
+Poland,POL,2025,2.9166508,Our World in Data
+Singapore,SGP,2014,0.33926564,Our World in Data
+Singapore,SGP,2015,0.49389145,Our World in Data
+Singapore,SGP,2016,0.6669914,Our World in Data
+Singapore,SGP,2017,1.3431454,Our World in Data
+Singapore,SGP,2018,2.1162353,Our World in Data
+Singapore,SGP,2019,2.9439535,Our World in Data
+Singapore,SGP,2020,4.3815193,Our World in Data
+Singapore,SGP,2021,3.2930474,Our World in Data
+Singapore,SGP,2022,2.997524,Our World in Data
+Singapore,SGP,2023,2.3137205,Our World in Data
+Singapore,SGP,2024,2.8287144,Our World in Data
+Singapore,SGP,2025,4.688576,Our World in Data
+Spain,ESP,2018,0.9612001,Our World in Data
+Spain,ESP,2019,1.1394137,Our World in Data
+Spain,ESP,2020,1.2189388,Our World in Data
+Spain,ESP,2021,1.9508905,Our World in Data
+Spain,ESP,2022,2.0180895,Our World in Data
+Spain,ESP,2023,1.7508345,Our World in Data
+Spain,ESP,2024,2.161311,Our World in Data
+Spain,ESP,2025,3.3149037,Our World in Data
+Sweden,SWE,2014,0.2671136,Our World in Data
+Sweden,SWE,2015,0.2009379,Our World in Data
+Sweden,SWE,2016,0.26198173,Our World in Data
+Sweden,SWE,2017,0.4142932,Our World in Data
+Sweden,SWE,2018,0.62258244,Our World in Data
+Sweden,SWE,2019,0.8806631,Our World in Data
+Sweden,SWE,2020,1.0482328,Our World in Data
+Sweden,SWE,2021,1.209983,Our World in Data
+Sweden,SWE,2022,1.1470551,Our World in Data
+Sweden,SWE,2023,1.262952,Our World in Data
+Sweden,SWE,2024,1.7386522,Our World in Data
+Sweden,SWE,2025,2.7679513,Our World in Data
+Switzerland,CHE,2018,0.8354103,Our World in Data
+Switzerland,CHE,2019,0.989974,Our World in Data
+Switzerland,CHE,2020,1.0472848,Our World in Data
+Switzerland,CHE,2021,1.1268016,Our World in Data
+Switzerland,CHE,2022,0.95275545,Our World in Data
+Switzerland,CHE,2023,0.7470552,Our World in Data
+Switzerland,CHE,2024,1.0252402,Our World in Data
+Switzerland,CHE,2025,1.5940037,Our World in Data
+United Arab Emirates,ARE,2020,0.7904223,Our World in Data
+United Arab Emirates,ARE,2021,0.85614026,Our World in Data
+United Arab Emirates,ARE,2022,1.4115463,Our World in Data
+United Arab Emirates,ARE,2023,1.2904267,Our World in Data
+United Arab Emirates,ARE,2024,1.7058071,Our World in Data
+United Arab Emirates,ARE,2025,2.8717885,Our World in Data
+United Kingdom,GBR,2014,0.3813,Our World in Data
+United Kingdom,GBR,2015,0.43600002,Our World in Data
+United Kingdom,GBR,2016,0.4902,Our World in Data
+United Kingdom,GBR,2017,0.6583,Our World in Data
+United Kingdom,GBR,2018,0.7428,Our World in Data
+United Kingdom,GBR,2019,0.8606,Our World in Data
+United Kingdom,GBR,2020,1.0545001,Our World in Data
+United Kingdom,GBR,2021,1.0878,Our World in Data
+United Kingdom,GBR,2022,1.1659,Our World in Data
+United Kingdom,GBR,2023,0.7905,Our World in Data
+United Kingdom,GBR,2024,1.052,Our World in Data
+United Kingdom,GBR,2025,1.928,Our World in Data
+United States,USA,2014,0.5615,Our World in Data
+United States,USA,2015,0.644,Our World in Data
+United States,USA,2016,0.6716,Our World in Data
+United States,USA,2017,0.8758,Our World in Data
+United States,USA,2018,1.1462001,Our World in Data
+United States,USA,2019,1.2778,Our World in Data
+United States,USA,2020,1.1605,Our World in Data
+United States,USA,2021,1.3055999,Our World in Data
+United States,USA,2022,1.4890001,Our World in Data
+United States,USA,2023,1.2642,Our World in Data
+United States,USA,2024,1.6524,Our World in Data
+United States,USA,2025,2.5554,Our World in Data

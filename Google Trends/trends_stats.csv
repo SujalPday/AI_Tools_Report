@@ -1,0 +1,11 @@
+tool,mean_score,max_score,min_score,std_dev,peak_month,growth_pct,trend
+Grammarly,44.05,64,14,9.43,2022-09,-51.28,Falling
+ChatGPT,30.24,100,0,31.16,2025-11,,Falling
+Cursor,24.27,66,12,13.01,2025-08,158.82,Rising
+Stable Diffusion,11.31,27,0,6.35,2023-04,,Falling
+Perplexity,6.41,100,0,18.02,2025-11,,Falling
+Gemini,4.82,73,0,8.94,2025-09,,Falling
+Notion AI,1.43,8,0,1.58,2025-09,,Falling
+Claude,1.23,3,0,0.62,2025-05,133.33,Rising
+Midjourney,0.16,1,0,0.36,2023-01,,Falling
+Github Copilot,0.0,0,0,0.0,2022-01,,Falling

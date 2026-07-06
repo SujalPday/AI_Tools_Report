@@ -1,0 +1,4 @@
+year,tools_tracked,mean_usage_pct,median_usage_pct,std_dev,top_tool,top_tool_usage_pct,total_respondents
+2023,10,12.24,1.86,24.99,GitHub Copilot,85.23,25904
+2024,25,9.34,2.7,18.18,ChatGPT,85.31,44453
+2025,17,20.51,14.51,20.13,openAI GPT (chatbot models),82.45,16281
