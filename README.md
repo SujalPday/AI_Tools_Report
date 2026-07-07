@@ -1,4 +1,4 @@
-# 📊 AI Tools Report
+# 🤖 AI Tools Report
 
 This report analyses the global demand, adoption, and growth of AI tools from 2022 to 2025. Data 
 was collected from three primary sources: the Stack Overflow Developer Survey (developer 
