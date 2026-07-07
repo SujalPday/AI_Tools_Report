@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import os
 
-os.chdir("D:/Work/Projects/AI/Google Trends")
+os.chdir("[Paste directory here]")
 
 def load_trends_batch(trends):
     # Google Trends CSVs have 2 junk rows at the top — skip them
