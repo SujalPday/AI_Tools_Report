@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 #  Load all 4 survey files 
-BASE_DIR = r"D:\Work\Projects\AI\Stack Overflow"
+BASE_DIR = r"[Paste directory here]"
 
 files = {
     2022: "survey_2022.csv",
