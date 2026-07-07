@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-os.chdir(r"D:\Work\Projects\AI\OWID")
+os.chdir("[Paste directory here]")
 
 #  Step 14: Load & Explore OWID Files 
 
